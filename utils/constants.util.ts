@@ -1,0 +1,2 @@
+export const SUBGRAPH_ENDPOINT = process.env.EXPO_PUBLIC_SUBGRAPH_ENDPOINT;
+export const API_ENDPOINT = process.env.EXPO_PUBLIC_API_ENDPOINT;
